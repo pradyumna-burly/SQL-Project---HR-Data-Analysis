@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "sql_hr_data_analysis",
+            "database": "hr_data_analysis",
+            "username": "postgres"
+        }
+    ]
+}
